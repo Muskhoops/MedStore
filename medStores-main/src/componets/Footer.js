@@ -48,7 +48,7 @@ const Footer = () => {
               <ul className="text-gray-600 dark:text-gray-400">
                 <li className="mb-4">
                   <a
-                    href="https://github.com/med134"
+                    href="https://github.com/muskhoops"
                     className="hover:underline "
                     target="blank"
                   >
@@ -57,7 +57,7 @@ const Footer = () => {
                 </li>
                 <li>
                   <a
-                    href="https://vivacode.dev/"
+                    href="https://www.advena.fr"
                     className="hover:underline"
                     target="blank"
                   >
